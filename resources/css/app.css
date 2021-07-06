@@ -1,3 +1,7 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+header > a {
+    padding: 10px;
+}
